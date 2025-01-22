@@ -41,3 +41,4 @@ https://raw.githubusercontent.com/securityscorecard/SSC-Threat-Intel-IoCs/refs/h
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/bambenek_c2.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/bbcan177_ms1.netset
 https://www.neblink.net/blocklist/KnownScanners.txt
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/yoyo_adservers.ipset
