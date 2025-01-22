@@ -27,7 +27,6 @@ https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/ali
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/bds_atif.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/ciarmy.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/dshield.netset
-https://www.binarydefense.com/banlist.txt
 https://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt
 https://raw.githubusercontent.com/stamparm/ipsum/master/levels/1.txt
 https://raw.githubusercontent.com/stamparm/ipsum/master/levels/3.txt
@@ -62,7 +61,6 @@ https://danger.rulez.sk/projects/bruteforceblocker/blist.php
 https://www.spamhaus.org/drop/drop.txt
 https://talosintelligence.com/documents/ip-blacklist
 https://raw.githubusercontent.com/securityscorecard/SSC-Threat-Intel-IoCs/refs/heads/master/KillNet-DDoS-Blocklist/ipblocklist.txt
-https://raw.githubusercontent.com/securityscorecard/SSC-Threat-Intel-IoCs/refs/heads/master/KillNet-DDoS-Blocklist/proxylist.txt
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/bambenek_c2.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/bbcan177_ms1.netset
 https://www.neblink.net/blocklist/KnownScanners.txt
