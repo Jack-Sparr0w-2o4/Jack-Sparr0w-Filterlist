@@ -64,7 +64,6 @@ https://www.spamhaus.org/drop/drop.txt
 https://talosintelligence.com/documents/ip-blacklist
 https://raw.githubusercontent.com/securityscorecard/SSC-Threat-Intel-IoCs/refs/heads/master/KillNet-DDoS-Blocklist/ipblocklist.txt
 https://raw.githubusercontent.com/securityscorecard/SSC-Threat-Intel-IoCs/refs/heads/master/KillNet-DDoS-Blocklist/proxylist.txt
-https://raw.githubusercontent.com/jumpsmm7/GeneratedAdblock/master/filter.list
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/bambenek_c2.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/bbcan177_ms1.netset
 https://www.neblink.net/blocklist/KnownScanners.txt
