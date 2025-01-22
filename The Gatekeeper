@@ -6,7 +6,6 @@ https://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt
 https://rules.emergingthreats.net/blockrules/compromised-ips.txt
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level2.netset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level3.netset
-https://feeds.dshield.org/block.txt
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/feodo.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/cybercrime.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/iblocklist_spamhaus_drop.netset
